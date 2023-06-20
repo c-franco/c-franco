@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AngularJS and .NET Core**
 
-- 👨‍💻 All of my projects are available at [christianfranco.dev](christianfranco.dev)
+- 👨‍💻 All of my projects are available at https://christianfranco.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
